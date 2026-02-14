@@ -4,8 +4,8 @@ A sleek and modern stopwatch application for Android, designed with a beautiful,
 
 ## Screenshot
 
-![Stopwatch App Screenshot](https://i.imgur.com/your-screenshot-url.png) 
-*(Please replace this with a URL to your actual screenshot!)*
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/0a11206a-b7b8-47c5-b594-851b9e8557a9" />
+
 
 ## Features
 
